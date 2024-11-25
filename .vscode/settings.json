@@ -1,0 +1,18 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "sprite_data.h": "c",
+        "level_data.h": "c",
+        "enemy_data.h": "c",
+        "tile_data.h": "c",
+        "player_data.h": "c",
+        "game.h": "c",
+        "sprites.h": "c",
+        "levels.h": "c",
+        "input.h": "c",
+        "init.h": "c",
+        "tiles.h": "c",
+        "*.с": "cpp",
+        "level1.h": "c"
+    }
+}
