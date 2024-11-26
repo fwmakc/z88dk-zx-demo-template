@@ -6,5 +6,5 @@ if errorlevel 1 exit /B 1
 call compile.cmd
 if errorlevel 1 exit /B 1
 
-tools\speccy\speccy bin\demo.sna
+tools\speccy\speccy bin\game.sna
 if errorlevel 1 exit /B 1

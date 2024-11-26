@@ -13,6 +13,20 @@
         "init.h": "c",
         "tiles.h": "c",
         "*.с": "cpp",
-        "level1.h": "c"
+        "level1.h": "c",
+        "box.h": "c",
+        "sound.h": "c",
+        "zx.h": "c",
+        "string": "c",
+        "vector": "c",
+        "memory": "c",
+        "optional": "c",
+        "string_view": "c",
+        "system_error": "c",
+        "text_encoding": "c",
+        "variant": "c",
+        "algorithm": "c",
+        "format": "c",
+        "cstddef": "c"
     }
 }

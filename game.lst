@@ -1,0 +1,3 @@
+src/main.c
+src/gfx.c
+src/scene.c
